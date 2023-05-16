@@ -16,4 +16,4 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 2.Create a dashboard according to the mock-up provided by stakeholders.
 
 3.Create relevant insights that are not provided in the metric list/mock-up dashboard.
-![Atliq Hotel Cover](https://github.com/Monikayadav1999/AtliQ_Grands_Hotels_Revenue_Insights/assets/68689152/900ae902-d7af-4e61-8535-dda34209a662)
+                                                       ![Atliq Hotel Cover](https://github.com/Monikayadav1999/AtliQ_Grands_Hotels_Revenue_Insights/assets/68689152/900ae902-d7af-4e61-8535-dda34209a662)
